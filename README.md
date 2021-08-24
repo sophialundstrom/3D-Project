@@ -1,7 +1,7 @@
 3D-Project using DirectX11 API
 
 Methods used:
-* Deffered Rendering
+* Deferred Rendering
 * Model Format Parsing (.obj)
 * Displacement Mapping using Tesselation Hardware
 * Blend Mapping (Displacement dependent)
