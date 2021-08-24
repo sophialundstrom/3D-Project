@@ -12,4 +12,4 @@ Methods used:
 * Make application to small game
 
 TO USE:
-Extract DirectXTK.zip (Project\DirectXTK\lib\Debug) in existing directory to get the .lib file and then delete zip.
+Extract DirectXTK.zip (Project\DirectXTK\lib\Debug) in existing directory(Debug) to get the .lib file and then delete zip.
