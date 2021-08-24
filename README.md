@@ -1,4 +1,4 @@
-#3D-Project
+3D-Project
 3D-Project using DirectX11 API
 
 Methods used:
